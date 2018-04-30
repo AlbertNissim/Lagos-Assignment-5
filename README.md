@@ -14,3 +14,7 @@ For the Coder Fiyin Oluyinka,
 Code the Survey page to collect details from visitors to our website. Use bluehost database. 
 Code the Login and Register pages.
 Make sure once a user is logged out they do not have access to private area of the website.
+
+Design Artist: 
+
+In order to keep the website unified, I am not changing the template to Kostin's. The template will stay similar to how it is with updates to images, fonts, background colors, and minor shifts in layout. 
