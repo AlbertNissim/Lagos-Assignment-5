@@ -8,6 +8,11 @@ Change the backgound picture to something thats fit the main topic of Pets.
 Choose Fonts and pictures that go with the main topic of Pets.
 Make sure the design for the ,Survey Login and Register pages are similar to the rest of the other webpages.
 
+# Albert: 
+I have updated the main picture to a Jungle themed image with the green background. I changed the Font to a 'Open Sans' Font that I like and think has a good vibe to it. I changed the images for the kitten, snake, and parrot as well. They are all equal sizes and sit nicely next to each other. 
+
+I have not been able to open up the "Register" or "Login" pages - so I have not been able to work on the CSS for those pages yet. Let me know if there is a reason they are not opening up on my computer. I will continue to update pages as the day progresses. 
+
 
 
 For the Coder Fiyin Oluyinka,
